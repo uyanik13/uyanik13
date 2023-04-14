@@ -4,7 +4,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=uyanik13)
 
 <h3>
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/3094/3094918.svg" width="30">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/10364/10364377.png " width="30">
 GitHub Stats
 </h3>
 <a href="https://github.com/uyanik13">
