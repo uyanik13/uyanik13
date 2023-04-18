@@ -22,19 +22,5 @@
 
 ![Ogur's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=uyanik13&bg_color=1A1B27&color=209CEE&line=22BBE0&point=FFFFFF&area=true&hide_border=true)
 
-
-![Ogur's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyanik13&show_icons=true&theme=radical)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uyanik13&theme=radical)
-
-![uyanik13](https://github-readme-projects.vercel.app/api/pin/?username=uyanik13&repo=uyanik13&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uyanik13&layout=compact&theme=radical)
-
-
-![Product Micro Service with Node JS Express - TypeScript](https://github-readme-stats.vercel.app/api/pin/?username=uyanik13&repo=product-ms-node-express&theme=radical&show_icons=true)
-
-
-
 
