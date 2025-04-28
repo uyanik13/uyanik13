@@ -20,7 +20,7 @@
 
 [![Awards](https://github-profile-trophy.vercel.app/?username=uyanik13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uyanik13&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=uyanik13&theme=radical)
 
 ![Ogur's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyanik13&show_icons=true&theme=radical)
 
