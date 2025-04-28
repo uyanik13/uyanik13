@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats & Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ogur's GitHub stats](https://github-readme-stats.vercel.app/api?username=uyanik13&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uyanik13&theme=radical)
 
